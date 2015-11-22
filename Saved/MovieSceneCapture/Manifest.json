@@ -1,0 +1,36 @@
+{
+	"Type": "/Script/MovieSceneCapture.LevelCapture",
+	"Data":
+	{
+		"level":
+		{
+			"assetLongPathname": "/Game/Maps/Reflections"
+		},
+		"settings":
+		{
+			"outputDirectory":
+			{
+				"path": "../../../../../../srolfe/Documents/Unreal Projects/Reflections 4.10/Saved/VideoCaptures/"
+			},
+			"outputFormat": "MovieCapture_{width}x{height}_{quality}",
+			"frameRate": 24,
+			"resolution":
+			{
+				"resX": 1920,
+				"resY": 1080
+			},
+			"captureType": "AVI",
+			"bUseCompression": true,
+			"compressionQuality": 1,
+			"codec": "",
+			"bEnableTextureStreaming": true,
+			"bCinematicMode": true,
+			"bAllowMovement": true,
+			"bAllowTurning": true,
+			"bShowPlayer": true,
+			"bShowHUD": true
+		},
+		"additionalCommandLineArguments": "-PIEVIACONSOLE -nomovie ",
+		"bBufferVisualizationDumpFrames": false
+	}
+}
